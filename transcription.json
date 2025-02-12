@@ -1,0 +1,60 @@
+{
+    "text": " गोपाल जी, आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे? आप कह रहे थे कि Tata Sky अप Tata Play हो गया है. ये कैसी हिस्ट्री क्लास है? गीता जी, Tata Sky का Tata Play होना बहुत ही historical moment है. इसलिए पढ़ा रहा था. अच्छा, तो और कौन-कौन से historical moments है? वैसे कल आपका स्माइल करना, मेरे लिए काफी historical था. अब Tata Sky है Tata Play. नाम बदल डाला, क्योंकि entertainment और भी जिंग अलाला.",
+    "language": "hi",
+    "segments": [
+        {
+            "start": 0.0,
+            "end": 3.68,
+            "text": " गोपाल जी, आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे?",
+            "confidence": 1.0
+        },
+        {
+            "start": 4.82,
+            "end": 7.5,
+            "text": " आप कह रहे थे कि Tata Sky अप Tata Play हो गया है.",
+            "confidence": 1.0
+        },
+        {
+            "start": 8.48,
+            "end": 9.8,
+            "text": " ये कैसी हिस्ट्री क्लास है?",
+            "confidence": 1.0
+        },
+        {
+            "start": 9.92,
+            "end": 14.56,
+            "text": " गीता जी, Tata Sky का Tata Play होना बहुत ही historical moment है.",
+            "confidence": 1.0
+        },
+        {
+            "start": 15.120000000000001,
+            "end": 16.32,
+            "text": " इसलिए पढ़ा रहा था.",
+            "confidence": 1.0
+        },
+        {
+            "start": 16.5,
+            "end": 18.900000000000002,
+            "text": " अच्छा, तो और कौन-कौन से historical moments है?",
+            "confidence": 1.0
+        },
+        {
+            "start": 18.9,
+            "end": 23.64,
+            "text": " वैसे कल आपका स्माइल करना, मेरे लिए काफी historical था.",
+            "confidence": 1.0
+        },
+        {
+            "start": 26.279999999999998,
+            "end": 28.159999999999997,
+            "text": " अब Tata Sky है Tata Play.",
+            "confidence": 1.0
+        },
+        {
+            "start": 28.5,
+            "end": 31.439999999999998,
+            "text": " नाम बदल डाला, क्योंकि entertainment और भी जिंग अलाला.",
+            "confidence": 1.0
+        }
+    ]
+}

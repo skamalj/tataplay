@@ -1,0 +1,56 @@
+[
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 0.63846875,
+        "end_time": 1.26284375,
+        "audio_file": "speaker_SPEAKER_01_0.wav"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 2.1234687500000002,
+        "end_time": 3.7772187500000003,
+        "audio_file": "speaker_SPEAKER_01_1.wav"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 4.97534375,
+        "end_time": 7.77659375,
+        "audio_file": "speaker_SPEAKER_01_2.wav"
+    },
+    {
+        "speaker": "SPEAKER_01",
+        "start_time": 8.78909375,
+        "end_time": 9.970343750000001,
+        "audio_file": "speaker_SPEAKER_01_3.wav"
+    },
+    {
+        "speaker": "SPEAKER_03",
+        "start_time": 9.970343750000001,
+        "end_time": 16.16346875,
+        "audio_file": "speaker_SPEAKER_03_4.wav"
+    },
+    {
+        "speaker": "SPEAKER_00",
+        "start_time": 16.500968750000002,
+        "end_time": 19.06596875,
+        "audio_file": "speaker_SPEAKER_00_5.wav"
+    },
+    {
+        "speaker": "SPEAKER_03",
+        "start_time": 19.69034375,
+        "end_time": 21.32721875,
+        "audio_file": "speaker_SPEAKER_03_6.wav"
+    },
+    {
+        "speaker": "SPEAKER_03",
+        "start_time": 22.086593750000002,
+        "end_time": 23.65596875,
+        "audio_file": "speaker_SPEAKER_03_7.wav"
+    },
+    {
+        "speaker": "SPEAKER_02",
+        "start_time": 26.558468750000003,
+        "end_time": 31.60409375,
+        "audio_file": "speaker_SPEAKER_02_8.wav"
+    }
+]
