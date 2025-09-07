@@ -5,7 +5,8 @@ import json
 model = whisper.load_model("large-v3-turbo")
 
 # Transcribe audio
-audio_path = "tataplay.mp3"
+#audio_path = "separated_audio/htdemucs/media_1_audio/vocals.wav"
+audio_path="tataplay2.mp3"
 result = model.transcribe(audio_path, language="hi")
 
 # Extract useful data

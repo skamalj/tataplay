@@ -1,13 +1,14 @@
 import json
 import librosa
 import soundfile as sf
-from pyannote.audio.pipelines.speaker_diarization import SpeakerDiarization
+from pyannote.audio import Pipeline
+import os
 
 # Load the pretrained diarization model
-pipeline = SpeakerDiarization.from_pretrained("pyannote/speaker-diarization")
+pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization@2.1", use_auth_token=os.getenv("HUGGINGFACE_AUTH_TOKEN_TATA"))
 
 # Define input audio file
-audio_file = "tataplay.mp3"
+audio_file = "media_1_audio.mp3"
 
 # Run diarization
 diarization = pipeline(audio_file)
