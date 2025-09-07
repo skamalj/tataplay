@@ -22,7 +22,7 @@
       "start_time": 4.922,
       "end_time": 8.242,
       "original_text": "आप कह रहे थे कि Tata Sky अब Tata Play हो गया है।",
-      "translated_text": "நீங்கள் Tata Sky <break time='0.1s'/> இப்போது Tata Play ஆகிவிட்டது என்று கூறினீர்கள்.",
+      "translated_text": "நீங்கள் Tata Sky  இப்போது Tata Play ஆகிவிட்டது என்று கூறினீர்கள்.",
       "ssml": "<speak><voice name='Speaker 1'><prosody pitch='medium' rate='medium'>நீங்கள் <break time='0.1s'/> Tata Sky <break time='0.1s'/> இப்போது <break time='0.1s'/> Tata Play ஆகிவிட்டது என்று கூறினீர்கள்.</prosody></voice></speak>"
     },
     {
