@@ -3,104 +3,64 @@
   "speak_segments": [
     {
       "speaker": "Speaker 1",
-      "start_time": 0.442,
-      "end_time": 1.152,
-      "original_text": "गोपाल जी!",
-      "translated_text": "கோபால் ஜி!",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='medium'>கோபால் ஜி!</prosody></voice></speak>"
+      "start_time": "0.0",
+      "end_time": "3.84",
+      "original_text": "गोपाल जी, आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे?",
+      "translated_text": "Gopal ji, what were you teaching in the history class today?",
+      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\">Gopal ji, what were you teaching in the history class today?</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 1",
-      "start_time": 1.352,
-      "end_time": 3.862,
-      "original_text": "आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे?",
-      "translated_text": "இன்று நீங்கள் HISTORY class-ல் <break time='0.2s'/> என்ன கற்பித்துக் கொண்டிருந்தீர்கள்?",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='medium' rate='medium'>இன்று நீங்கள் <break time='0.1s'/> HISTORY class-ல் <break time='0.2s'/> என்ன கற்பித்துக் கொண்டிருந்தீர்கள்?</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 1",
-      "start_time": 4.922,
-      "end_time": 8.242,
+      "start_time": "4.86",
+      "end_time": "7.64",
       "original_text": "आप कह रहे थे कि Tata Sky अब Tata Play हो गया है।",
-      "translated_text": "நீங்கள் Tata Sky  இப்போது Tata Play ஆகிவிட்டது என்று கூறினீர்கள்.",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='medium' rate='medium'>நீங்கள் <break time='0.1s'/> Tata Sky <break time='0.1s'/> இப்போது <break time='0.1s'/> Tata Play ஆகிவிட்டது என்று கூறினீர்கள்.</prosody></voice></speak>"
+      "translated_text": "You were saying that Tata Sky has now become Tata Play.",
+      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\">You were saying that Tata Sky has now become Tata Play.</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 1",
-      "start_time": 8.722,
-      "end_time": 9.922,
+      "start_time": "8.52",
+      "end_time": "9.94",
       "original_text": "ये कैसी हिस्ट्री क्लास है?",
-      "translated_text": "இது என்ன மாதிரியான HISTORY class?",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='high' rate='medium'>இது என்ன மாதிரியான <break time='0.1s'/> HISTORY class?</prosody></voice></speak>"
+      "translated_text": "What kind of history class is this?",
+      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\" pitch=\"high\">What kind of history class is this?</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 2",
-      "start_time": 10.162,
-      "end_time": 10.992,
-      "original_text": "गीता जी!",
-      "translated_text": "கீதா ஜி!",
-      "ssml": "<speak><voice name='Speaker 2'><prosody pitch='medium'>கீதா ஜி!</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 2",
-      "start_time": 11.392,
-      "end_time": 14.882,
-      "original_text": "Tata Sky का Tata Play होना बहुत ही हिस्टोरिकल मोमेंट है।",
-      "translated_text": "Tata Sky <break time='0.1s'/> Tata Play ஆனது <break time='0.2s'/> ஒரு மிகப் பெரிய HISTORICAL moment ஆகும்.",
-      "ssml": "<speak><voice name='Speaker 2'><prosody pitch='medium' rate='medium'>Tata Sky <break time='0.1s'/> Tata Play ஆனது <break time='0.2s'/> ஒரு மிகப் பெரிய HISTORICAL moment ஆகும்.</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 2",
-      "start_time": 15.192,
-      "end_time": 16.142,
-      "original_text": "इसीलिए पढ़ा रहा था।",
-      "translated_text": "அதனால்தான் கற்பித்துக் கொண்டிருந்தேன்.",
-      "ssml": "<speak><voice name='Speaker 2'><prosody pitch='medium' rate='medium'>அதனால்தான் கற்பித்துக் கொண்டிருந்தேன்.</prosody></voice></speak>"
+      "start_time": "10.74",
+      "end_time": "16.08",
+      "original_text": "गीता जी, Tata Sky का Tata Play होना बहुत ही हिस्टोरिकल मोमेंट है। इसीलिए पढ़ा रहा था।",
+      "translated_text": "Geeta ji, Tata Sky becoming Tata Play is a very historical moment. That's why I was teaching it.",
+      "ssml": "<speak><voice name=\"en-US-GuyNeural\"><prosody rate=\"medium\">Geeta ji, Tata Sky becoming Tata Play is a very historical moment.<break time=\"500ms\"/>That's why I was teaching it.</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 1",
-      "start_time": 16.482,
-      "end_time": 16.942,
-      "original_text": "अच्छा?",
-      "translated_text": "ஓ?",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='high' rate='medium'>ஓ?</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 1",
-      "start_time": 17.062,
-      "end_time": 18.962,
-      "original_text": "तो और कौन-कौन से हिस्टोरिकल मोमेंट्स हैं?",
-      "translated_text": "அப்போ வேறு என்னென்ன HISTORICAL moments இருக்கு?",
-      "ssml": "<speak><voice name='Speaker 1'><prosody pitch='high' rate='medium'>அப்போ வேறு என்னென்ன <break time='0.1s'/> HISTORICAL moments இருக்கு?</prosody></voice></speak>"
+      "start_time": "16.59",
+      "end_time": "18.86",
+      "original_text": "अच्छा? तो और कौन-कौन से हिस्टोरिकल मोमेंट्स हैं?",
+      "translated_text": "Oh? So what other historical moments are there?",
+      "ssml": "<speak><voice name=\"en-US-JennyNeural\">Oh?<break time=\"200ms\"/> So what other historical moments are there?</voice></speak>"
     },
     {
       "speaker": "Speaker 2",
-      "start_time": 19.532,
-      "end_time": 23.492,
+      "start_time": "19.57",
+      "end_time": "23.49",
       "original_text": "वैसे कल आपका स्माइल करना मेरे लिए काफी हिस्टोरिकल था।",
-      "translated_text": "அப்படியும் பார்த்தால், <break time='0.2s'/> நேற்று நீங்கள் SMILE செய்தது <break time='0.3s'/> எனக்கு ஒரு மிகப் பெரிய HISTORICAL ஆக இருந்தது.",
-      "ssml": "<speak><voice name='Speaker 2'><prosody pitch='low' rate='medium'>அப்படியும் பார்த்தால், <break time='0.2s'/> நேற்று நீங்கள் <break time='0.1s'/> SMILE செய்தது <break time='0.3s'/> எனக்கு ஒரு மிகப் பெரிய HISTORICAL ஆக இருந்தது.</prosody></voice></speak>"
+      "translated_text": "By the way, you smiling yesterday was quite historical for me.",
+      "ssml": "<speak><voice name=\"en-US-GuyNeural\"><prosody rate=\"slow\" pitch=\"low\">By the way, you smiling yesterday<break time=\"600ms\"/> was quite historical for me.</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 3",
-      "start_time": 26.542,
-      "end_time": 28.592,
-      "original_text": "अब Tata Sky है Tata Play.",
-      "translated_text": "இப்போது Tata Sky, <break time='0.1s'/> Tata Play ஆகிவிட்டது.",
-      "ssml": "<speak><voice name='Speaker 3'><prosody pitch='medium' rate='fast'>இப்போது Tata Sky, <break time='0.1s'/> Tata Play ஆகிவிட்டது.</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 3",
-      "start_time": 28.842,
-      "end_time": 31.842,
-      "original_text": "नाम बदल डाला क्योंकि एंटरटेनमेंट और भी झिंगा लाला।",
-      "translated_text": "பெயரை மாற்றிவிட்டார்கள், <break time='0.2s'/> ஏனெனில் ENTERTAINMENT மேலும் ஜங்காலாலா ஆகிவிட்டது.",
-      "ssml": "<speak><voice name='Speaker 3'><prosody pitch='medium' rate='fast'>பெயரை மாற்றிவிட்டார்கள், <break time='0.2s'/> ஏனெனில் <break time='0.1s'/> ENTERTAINMENT மேலும் ஜங்காலாலா ஆகிவிட்டது.</prosody></voice></speak>"
+      "start_time": "26.44",
+      "end_time": "31.81",
+      "original_text": "अब Tata Sky है Tata Play. नाम बदल डाला, क्योंकि एंटरटेनमेंट और भी झिंगालाला।",
+      "translated_text": "Now Tata Sky is Tata Play. The name has been changed, because the entertainment is even more jingalala.",
+      "ssml": "<speak><voice name=\"en-US-DavisNeural\"><prosody rate=\"fast\" pitch=\"medium\">Now Tata Sky is Tata Play.<break time=\"300ms\"/> The name has been changed, because the entertainment is even more jingalala.</prosody></voice></speak>"
     }
   ],
   "metadata": {
-    "translation_language": "Tamil",
-    "total_duration": 31.842,
+    "translation_language": "English",
+    "total_duration": "35.0",
     "notes": "pitch, pauses, tone captured where possible; code-switch words preserved"
   }
 }

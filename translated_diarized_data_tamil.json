@@ -1,0 +1,50 @@
+{
+  "speakers_count": 3,
+  "speak_segments": [
+    {
+      "speaker": "Speaker 1",
+      "start_time": "0.33",
+      "end_time": "9.83",
+      "original_text": "Gopal ji, aaj aap history class mein kya padha rahe the? Aap keh rahe the ke Tata Sky ab Tata Play ho gaya hai. Yeh kaisi history class hai?",
+      "translated_text": "Gopal ji, இன்னைக்கு நீங்க history class-ல என்ன சொல்லிக்கொடுத்துட்டு இருந்தீங்க? Tata Sky இப்போ Tata Play ஆயிடுச்சுன்னு சொல்லிட்டு இருந்தீங்க. இது என்ன history class?",
+      "ssml": "<speak><voice name=\"ta-IN-PallaviVoice\">Gopal ji, <break time=\"0.5s\"/> இன்னைக்கு நீங்க history class-ல என்ன சொல்லிக்கொடுத்துட்டு இருந்தீங்க? <break time=\"1.0s\"/> Tata Sky இப்போ Tata Play ஆயிடுச்சுன்னு சொல்லிட்டு இருந்தீங்க. <break time=\"0.8s\"/> <prosody rate=\"fast\" pitch=\"high\">இது என்ன history class?</prosody></voice></speak>"
+    },
+    {
+      "speaker": "Speaker 2",
+      "start_time": "10.78",
+      "end_time": "16.09",
+      "original_text": "Geeta ji, Tata Sky ka Tata Play hona bahut hi historical moment hai. Isiliye padha raha tha.",
+      "translated_text": "Geeta ji, Tata Sky, Tata Play ஆனது ரொம்பவே historical moment. அதனாலதான் சொல்லிக்கொடுத்துட்டு இருந்தேன்.",
+      "ssml": "<speak><voice name=\"ta-IN-ValluvarVoice\">Geeta ji, Tata Sky, Tata Play ஆனது ரொம்பவே historical moment. <break time=\"0.5s\"/> அதனாலதான் சொல்லிக்கொடுத்துட்டு இருந்தேன்.</voice></speak>"
+    },
+    {
+      "speaker": "Speaker 1",
+      "start_time": "16.55",
+      "end_time": "18.89",
+      "original_text": "Achha? Toh aur kaun kaun se historical moments hain?",
+      "translated_text": "அப்படியா? அப்போ வேற என்னென்ன historical moments இருக்கு?",
+      "ssml": "<speak><voice name=\"ta-IN-PallaviVoice\">அப்படியா? <break time=\"0.3s\"/> அப்போ வேற என்னென்ன historical moments இருக்கு?</voice></speak>"
+    },
+    {
+      "speaker": "Speaker 2",
+      "start_time": "19.53",
+      "end_time": "23.53",
+      "original_text": "Waise kal aapka smile karna mere liye kaafi historical tha.",
+      "translated_text": "அப்படியே, நேத்து நீங்க smile பண்ணது எனக்கு ரொம்ப historical-ஆ இருந்துச்சு.",
+      "ssml": "<speak><voice name=\"ta-IN-ValluvarVoice\"><prosody rate=\"slow\" pitch=\"low\">அப்படியே, நேத்து நீங்க smile பண்ணது <break time=\"0.5s\"/> எனக்கு ரொம்ப historical-ஆ இருந்துச்சு.</prosody></voice></speak>"
+    },
+    {
+      "speaker": "Speaker 3",
+      "start_time": "26.37",
+      "end_time": "31.84",
+      "original_text": "Ab Tata Sky hai Tata Play. Naam badal daala kyunki entertainment aur bhi jhingalala.",
+      "translated_text": "இனி Tata Sky தான் Tata Play. பேர் மாத்தியாச்சு ஏன்னா entertainment இன்னும் ஜிங்காலாலா.",
+      "ssml": "<speak><voice name=\"ta-IN-Standard-D\">இனி Tata Sky தான் Tata Play. <break time=\"0.4s\"/> பேர் மாத்தியாச்சு ஏன்னா entertainment இன்னும் ஜிங்காலாலா.</voice></speak>"
+    }
+  ],
+  "metadata": {
+    "translation_language": "Tamil",
+    "total_duration": "35.5",
+    "notes": "pitch, pauses, tone captured where possible; code-switch words preserved"
+  }
+}
