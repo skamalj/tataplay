@@ -1,2 +1,3 @@
 *.wav
 checkpoints_v2/*
+processed/*
