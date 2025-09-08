@@ -4,63 +4,47 @@
     {
       "speaker": "Speaker 1",
       "start_time": "0.0",
-      "end_time": "3.84",
-      "original_text": "गोपाल जी, आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे?",
-      "translated_text": "Gopal ji, what were you teaching in the history class today?",
-      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\">Gopal ji, what were you teaching in the history class today?</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 1",
-      "start_time": "4.86",
-      "end_time": "7.64",
-      "original_text": "आप कह रहे थे कि Tata Sky अब Tata Play हो गया है।",
-      "translated_text": "You were saying that Tata Sky has now become Tata Play.",
-      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\">You were saying that Tata Sky has now become Tata Play.</prosody></voice></speak>"
-    },
-    {
-      "speaker": "Speaker 1",
-      "start_time": "8.52",
-      "end_time": "9.94",
-      "original_text": "ये कैसी हिस्ट्री क्लास है?",
-      "translated_text": "What kind of history class is this?",
-      "ssml": "<speak><voice name=\"en-US-JennyNeural\"><prosody rate=\"medium\" pitch=\"high\">What kind of history class is this?</prosody></voice></speak>"
+      "end_time": "9.88",
+      "original_text": "गोपाल जी, आज आप हिस्ट्री क्लास में क्या पढ़ा रहे थे? आप कह रहे थे कि Tata Sky अब Tata Play हो गया है। यह कैसी हिस्ट्री क्लास है?",
+      "translated_text": "Gopal ji, what were you teaching in the history class today? You were saying that Tata Sky has now become Tata Play. What kind of a history class is this?",
+      "ssml": "<speak><voice name=\"en-US-AriaNeural\"><prosody rate=\"medium\">Gopal ji,<break time=\"200ms\"/> what were you teaching in the history class today? You were saying that Tata Sky has now become Tata Play.</prosody><break time=\"400ms\"/><prosody pitch=\"high\" rate=\"medium\">What kind of a history class is this?</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 2",
-      "start_time": "10.74",
+      "start_time": "10.29",
       "end_time": "16.08",
       "original_text": "गीता जी, Tata Sky का Tata Play होना बहुत ही हिस्टोरिकल मोमेंट है। इसीलिए पढ़ा रहा था।",
       "translated_text": "Geeta ji, Tata Sky becoming Tata Play is a very historical moment. That's why I was teaching it.",
-      "ssml": "<speak><voice name=\"en-US-GuyNeural\"><prosody rate=\"medium\">Geeta ji, Tata Sky becoming Tata Play is a very historical moment.<break time=\"500ms\"/>That's why I was teaching it.</prosody></voice></speak>"
+      "ssml": "<speak><voice name=\"en-US-DavisNeural\"><prosody rate=\"medium\" pitch=\"medium\">Geeta ji,<break time=\"300ms\"/> Tata Sky becoming Tata Play is a very historical moment.</prosody><break time=\"400ms\"/><prosody rate=\"medium\">That's why I was teaching it.</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 1",
-      "start_time": "16.59",
-      "end_time": "18.86",
+      "start_time": "16.4",
+      "end_time": "18.96",
       "original_text": "अच्छा? तो और कौन-कौन से हिस्टोरिकल मोमेंट्स हैं?",
-      "translated_text": "Oh? So what other historical moments are there?",
-      "ssml": "<speak><voice name=\"en-US-JennyNeural\">Oh?<break time=\"200ms\"/> So what other historical moments are there?</voice></speak>"
+      "translated_text": "Oh really? So what are the other historical moments?",
+      "ssml": "<speak><voice name=\"en-US-AriaNeural\"><prosody rate=\"medium\" pitch=\"high\">Oh really?</prosody><break time=\"200ms\"/> So what are the other historical moments?</voice></speak>"
     },
     {
       "speaker": "Speaker 2",
-      "start_time": "19.57",
-      "end_time": "23.49",
+      "start_time": "19.5",
+      "end_time": "23.66",
       "original_text": "वैसे कल आपका स्माइल करना मेरे लिए काफी हिस्टोरिकल था।",
       "translated_text": "By the way, you smiling yesterday was quite historical for me.",
-      "ssml": "<speak><voice name=\"en-US-GuyNeural\"><prosody rate=\"slow\" pitch=\"low\">By the way, you smiling yesterday<break time=\"600ms\"/> was quite historical for me.</prosody></voice></speak>"
+      "ssml": "<speak><voice name=\"en-US-DavisNeural\"><prosody rate=\"slow\" pitch=\"low\">By the way,<break time=\"400ms\"/> you smiling yesterday<break time=\"500ms\"/> was quite historical for me.</prosody></voice></speak>"
     },
     {
       "speaker": "Speaker 3",
-      "start_time": "26.44",
-      "end_time": "31.81",
-      "original_text": "अब Tata Sky है Tata Play. नाम बदल डाला, क्योंकि एंटरटेनमेंट और भी झिंगालाला।",
-      "translated_text": "Now Tata Sky is Tata Play. The name has been changed, because the entertainment is even more jingalala.",
-      "ssml": "<speak><voice name=\"en-US-DavisNeural\"><prosody rate=\"fast\" pitch=\"medium\">Now Tata Sky is Tata Play.<break time=\"300ms\"/> The name has been changed, because the entertainment is even more jingalala.</prosody></voice></speak>"
+      "start_time": "26.28",
+      "end_time": "31.74",
+      "original_text": "अब Tata Sky है Tata Play. नाम बदल डाला क्योंकि एंटरटेनमेंट और भी जिंगालाला।",
+      "translated_text": "Now Tata Sky is Tata Play. The name was changed because entertainment is even more Jinga lala.",
+      "ssml": "<speak><voice name=\"en-US-GuyNeural\"><prosody rate=\"fast\" pitch=\"medium\">Now Tata Sky is Tata Play.</prosody><break time=\"400ms\"/><prosody rate=\"fast\" pitch=\"high\">The name was changed because entertainment is even more Jinga lala!</prosody></voice></speak>"
     }
   ],
   "metadata": {
     "translation_language": "English",
-    "total_duration": "35.0",
+    "total_duration": "35.63",
     "notes": "pitch, pauses, tone captured where possible; code-switch words preserved"
   }
 }
